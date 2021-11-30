@@ -19,12 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="754d1c60-9ef0-48ec-b5e3-5ed187f9dbfc" name="Default Changelist" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/.idea/BuildingSystems.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="754d1c60-9ef0-48ec-b5e3-5ed187f9dbfc" name="Default Changelist" comment="First commit after fixes">
+      <change beforePath="$PROJECT_DIR$/CSC3131/client/building_systems" beforeDir="false" afterPath="$PROJECT_DIR$/CSC3131/client/building_systems" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,17 +31,27 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="21eCHCjQjr6RqNosyGxflbYnR7p" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CSC3131" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -55,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638292075462</updated>
-      <workItem from="1638292076512" duration="309000" />
+      <workItem from="1638292076512" duration="617000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1638292097047</created>
@@ -64,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638292097047</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First commit after fixes">
+      <created>1638292749595</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1638292749595</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,13 +95,19 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="First commit after fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit after fixes" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="440" y="262" key="Vcs.Push.Dialog.v2" timestamp="1638292110321">
+    <state x="440" y="262" key="Vcs.Push.Dialog.v2" timestamp="1638292764681">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="262" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1638292110321" />
+    <state x="440" y="262" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1638292764681" />
+    <state x="538" y="263" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1638292499597">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="538" y="263" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1638292499597" />
   </component>
 </project>
